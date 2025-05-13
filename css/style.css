@@ -284,6 +284,7 @@ button {
 
 .outstanding_text {
     width: 100%;
+    font-weight: bold;
     float: left;
     font-size: 60px;
     color: #252525;
